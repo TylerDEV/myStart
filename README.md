@@ -3,7 +3,10 @@ myStart
 
 myStart is a self-hosted, customizable "start" page with a browser plugin. Written in PHP, with a little CSS/JS from Bootstrap.
 
-DEMO: https://tyler.li/demos/myStart/
+Demo URL
+=======
+
+https://tyler.li/demos/myStart/
 
 Installation
 =======
